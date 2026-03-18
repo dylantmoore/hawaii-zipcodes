@@ -40,4 +40,4 @@ Hawaii's counties don't map 1:1 to islands. The `island` column captures the phy
 
 ## Sources
 
-Compiled from Hawaii Department of Taxation administrative records and USPS ZIP code reference data.
+Compiled from USPS ZIP code reference data and a number of open-source resources.
